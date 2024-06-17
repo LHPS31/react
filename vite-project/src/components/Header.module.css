@@ -1,0 +1,19 @@
+.header{
+    background-color: rgb(192, 29, 29);
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 2em;
+    font-weight: 600px; 
+    border: 1px solid black !important;
+    border-radius: 20px;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none !important;
+    list-style: none; /* AUXILIO NA MONTAGEM DE ESTILO EX: TIRAR OU INSERIR ELEMENTOS */
+   
+}

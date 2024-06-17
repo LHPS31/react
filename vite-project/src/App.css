@@ -1,0 +1,48 @@
+#root {
+  /*max-width: 1280px;*/
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: rgb(220, 226, 226);
+  border-radius: 50px;
+
+}
+
+.history{
+  display: flex;
+  justify-content: space-around;
+}
+
+.history-title  p{
+  margin: 15px;
+  margin-top: 50px;
+}
+.imgh{
+  width: 700px;
+  padding: 5px ;
+  margin-top:10px;
+  }
+
+#hp{
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  
+}
+
+.imgH{
+  width: 500px;
+}
+
+.escuderia{
+  width: 250px;
+  
+}
+
+.imgm{
+  width: 700px;
+  }
+
+#imgheader{
+  width: 60px;
+}
